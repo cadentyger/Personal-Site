@@ -1,0 +1,55 @@
+
+.container {
+    position: relative;
+    
+  }
+  
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: limegreen;
+    border-style: solid;
+    border-color: cyan;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    letter-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+#index-header {
+    letter-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    
+}
+body {
+    background-color: aqua;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+  font-size: 50px;
+  margin: 30px;
+}
+h2 {
+  font-size: 30px;
+
+}
+.text-block2 {
+background-color: limegreen;
+}
+.about-h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 30px;
+}
